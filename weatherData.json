@@ -1,0 +1,39 @@
+{
+    "data":[
+        {
+            "day": "MON",
+            "type": "partly-cloudy-day",
+            "temperature": 19
+        },
+        {
+            "day": "TUE",
+            "type": "partly-cloudy-day",
+            "temperature": 20
+        },
+        {
+            "day": "WED",
+            "type": "partly-cloudy-day",
+            "temperature": 15
+        },
+        {
+            "day": "THU",
+            "type": "partly-cloudy-day",
+            "temperature": 17
+        },
+        {
+            "day": "FRI",
+            "type": "partly-cloudy-day",
+            "temperature": 19
+        },
+        {
+            "day": "SAT",
+            "type": "partly-cloudy-day",
+            "temperature": 20
+        },
+        {
+            "day": "SUN",
+            "type": "partly-cloudy-day",
+            "temperature": 22
+        }
+    ]
+}
